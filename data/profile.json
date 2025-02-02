@@ -1,10 +1,10 @@
 {
   "name": "Mateus R Czeszynski",
   "photo": "https://avatars.githubusercontent.com/u/155499584?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "job": "",
+  "location": "Paraná - PR",
+  "phone": "(41) 99999-9999",
+  "email": "@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -33,18 +33,13 @@
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
       "Trabalho em equipe",
-      "Flexibilidade",
       "Organização"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (intermediário)"
   ],
   "portfolio": [
     {
